@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jogeshm
-- 👀 I’m interested in building solutions
-- 🌱 I’m currently learning web3
+- 👀 I believe technology is an enabler and I’m interested in building solutions
+- 🌱 I’m a lifelong learner
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: email me @ jogesh@gmail.com
 
